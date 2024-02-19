@@ -1,1 +1,1 @@
-link to repo: https://github.com/Anuj2117/cat-photo-app.git
+Host link : https://anuj2117.github.io/cat-photo-app/
